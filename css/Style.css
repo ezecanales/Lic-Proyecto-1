@@ -1,0 +1,22 @@
+body {
+    background-color: #f4f6f9 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.presupuesto-header {
+    background-color: #eef2f7;
+    border-bottom: 1px solid #dfe3e8;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #343a40 !important;
+    color: #fff !important;
+}
+
+.nav-pills .nav-link {
+    color: #6c757d;
+}
+
+.card {
+    border-radius: 8px;
+}
