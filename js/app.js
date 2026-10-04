@@ -1,13 +1,7 @@
-// Datos iniciales de prueba basados en el mockup
-const ingresos = [
-    new Ingreso("Salario 1", 400.00),
-    new Ingreso("Salario 2", 400.00)
-];
+// Datos de ingresos y egresos (vacíos por defecto)
+const ingresos = [];
 
-const egresos = [
-    new Egreso("Supermercado", 200.00),
-    new Egreso("Servicios básicos", 100.00)
-];
+const egresos = [];
 
 // Función principal que carga al iniciar la página
 let cargarApp = () => {
